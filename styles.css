@@ -7,3 +7,8 @@
     max-width: 1000px;
   margin: 0 auto;
 }
+         table, th, td {
+            border: 1px solid black;
+            width: 100px;
+            height: 50px;
+         }
