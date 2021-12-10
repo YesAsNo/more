@@ -1,1 +1,9 @@
+.content {
+  margin: 0 auto;
+  text-align: center;
+}
 
+.keskitys {
+    max-width: 1000px;
+  margin: 0 auto;
+}
