@@ -8,8 +8,11 @@
   margin: 0 auto;
 }
          table, th, td {
-            border: 1px solid black;
+            border: 1px solid red;
             width: 100px;
             height: 100px;
             align: center;
+            font-family: "Comic Sans MS", "Comic Sans", cursive;
+            font-size: 10px;
+            color: red;
          }
