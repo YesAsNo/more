@@ -16,3 +16,17 @@
   background-size: cover;
   text-shadow:5px 5px 10px blue;
 }
+
+a:link {
+  color: black;
+}
+
+/* mouse over link */
+a:hover {
+  color: red;
+}
+
+/* selected link */
+a:active {
+  color: red;
+}
