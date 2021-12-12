@@ -12,5 +12,7 @@
   box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
   padding: 20px;
   border-style: ridge;
+  background-image: url("https://images.unsplash.com/photo-1639152306957-446a29b71e8a?ixlib");
+  background-size: cover;
   text-shadow:5px 5px 10px blue;
 }
